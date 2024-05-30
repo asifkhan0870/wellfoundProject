@@ -1,0 +1,21 @@
+.questionbox {
+  margin-top: 80vh;
+}
+
+.questionbox > form > input {
+  width: 40%;
+  height: 26px;
+  margin-left: 12px;
+  outline: none;
+  /* margin-bottom: 120px; */
+}
+
+.questionform {
+  margin-left: 100px;
+}
+
+.btnn {
+  /* color: green; */
+  height: 26px;
+  margin-left: 12px;
+}

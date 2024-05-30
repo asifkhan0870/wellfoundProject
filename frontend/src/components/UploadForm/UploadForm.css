@@ -1,0 +1,11 @@
+.uploadPdf > span {
+  font-size: 12px;
+}
+
+.uploadPdf > input {
+  height: 12px;
+}
+.btn {
+  border-radius: 12px;
+  height: 54px;
+}

@@ -1,0 +1,51 @@
+.h-wrapper {
+  height: 120px;
+  /* background-color: red; */
+}
+
+.textheader {
+  margin: 0px 97px;
+}
+.textheader > secondaryText {
+  color: green;
+  font: bold;
+  font-size: 1rem;
+}
+
+.logoImage {
+  margin-top: 12px;
+  display: flex;
+}
+.planetText {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 18px;
+  margin-left: 2px;
+}
+
+.textheader {
+  margin-top: -18px;
+  margin-left: 88px;
+}
+
+.imagelogo {
+  height: 70px;
+  width: 70px;
+}
+
+.textheader > .secondaryText {
+  color: green;
+}
+.h-left {
+  float: left;
+  display: flex;
+  flex-direction: column;
+}
+.h-right {
+  float: right;
+}
+
+.h-right {
+  margin-top: 20px;
+  margin-right: 150px;
+}
